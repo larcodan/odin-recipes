@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+
+h3 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
